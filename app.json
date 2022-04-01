@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/ntrawq76hdy/gtfe5ty",
-  "repository": "https://github.com/ntrawq76hdy/gtfe5ty",
+  "website": "https://github.com/ntrfawq76hdy/gtfe5ty",
+  "repository": "https://github.com/ntrfawq76hdy/gtfe5ty",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
